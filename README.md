@@ -1,7 +1,5 @@
 # Welcome to my Ecommerce Project
 
-## Project info
-
 ## What technologies are used for this project?
 
 This project is built with:
