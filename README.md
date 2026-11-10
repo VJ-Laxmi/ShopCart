@@ -1,4 +1,4 @@
-# Welcome to my Ecommerce Project
+# Welcome to the E-commerce Project "ShopCart"
 
 ## What technologies are used for this project?
 
